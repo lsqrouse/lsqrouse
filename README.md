@@ -1,4 +1,5 @@
-Hi! I'm Quinn Rouse and I'm a junior in Computer Science at Purdue University. I'm very interested in software development, especially software that intersects with the financial services world.
+<h1> Hi! I'm Quinn Rouse </h1>
+I'm a junior in at Purdue University pursuing degrees in both Computer Sciene and philosophy. I'm very interested in software development, especially software that intersects with the financial services world.
 I'm looking forward to hopefully gaining more software development experience at an internship this summer. 
 
 <!---
